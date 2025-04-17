@@ -4,7 +4,7 @@ metadata:
   name: my-notes-app-deployment
   labels:
     app: notes-app
-  namespace: abhi
+  namespace: aks-project
 spec:
   replicas: 1
   selector:
